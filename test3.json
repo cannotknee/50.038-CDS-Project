@@ -1,0 +1,260 @@
+{
+  "bounds": {
+    "northeast": { "lat": 1.37264, "lng": 103.8379461 },
+    "southwest": { "lat": 1.3528415, "lng": 103.8183032 }
+  },
+  "copyrights": "Map data ©2023 Google",
+  "legs": [
+    {
+      "arrival_time": {
+        "text": "2:10\u202fPM",
+        "time_zone": "Asia/Singapore",
+        "value": 1679379013
+      },
+      "departure_time": {
+        "text": "1:20\u202fPM",
+        "time_zone": "Asia/Singapore",
+        "value": 1679376044
+      },
+      "distance": { "text": "4.4 km", "value": 4363 },
+      "duration": { "text": "49 mins", "value": 2969 },
+      "end_address": "Singapore",
+      "end_location": { "lat": 1.3528415, "lng": 103.8200039 },
+      "start_address": "108 Ang Mo Kio Ave 4, Singapore 560108",
+      "start_location": { "lat": 1.3711586, "lng": 103.8378579 },
+      "steps": [
+        {
+          "distance": { "text": "0.3 km", "value": 292 },
+          "duration": { "text": "4 mins", "value": 256 },
+          "end_location": { "lat": 1.37264, "lng": 103.83702 },
+          "html_instructions": "Walk to Mayflower",
+          "polyline": { "points": "wxjGsywxRAQI@C?K@BXFv@BXB`@?BAVCZCNOCeG[" },
+          "start_location": { "lat": 1.3711586, "lng": 103.8378579 },
+          "steps": [
+            {
+              "distance": { "text": "13 m", "value": 13 },
+              "duration": { "text": "1 min", "value": 9 },
+              "end_location": { "lat": 1.3711686, "lng": 103.8379461 },
+              "html_instructions": "Head <b>east</b> on <b>Ang Mo Kio Street 11</b>",
+              "polyline": { "points": "wxjGsywxRAQ" },
+              "start_location": { "lat": 1.3711586, "lng": 103.8378579 },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": { "text": "8 m", "value": 8 },
+              "duration": { "text": "1 min", "value": 8 },
+              "end_location": { "lat": 1.3712959, "lng": 103.8379302 },
+              "html_instructions": "Turn <b>left</b> toward <b>Ang Mo Kio Street 11</b>",
+              "maneuver": "turn-left",
+              "polyline": { "points": "yxjGezwxRI@C?K@" },
+              "start_location": { "lat": 1.3711686, "lng": 103.8379461 },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": { "text": "0.1 km", "value": 125 },
+              "duration": { "text": "2 mins", "value": 92 },
+              "end_location": { "lat": 1.3712463, "lng": 103.8368606 },
+              "html_instructions": "Turn <b>left</b> onto <b>Ang Mo Kio Street 11</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+              "maneuver": "turn-left",
+              "polyline": { "points": "syjGazwxRBXFv@BXB`@?BAVCZCN" },
+              "start_location": { "lat": 1.3712959, "lng": 103.8379302 },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": { "text": "0.1 km", "value": 146 },
+              "duration": { "text": "2 mins", "value": 147 },
+              "end_location": { "lat": 1.37264, "lng": 103.83702 },
+              "html_instructions": "Take entrance <span class=\"location\">4</span>",
+              "polyline": { "points": "yyjGoswxReG[" },
+              "start_location": { "lat": 1.37133, "lng": 103.83688 },
+              "travel_mode": "WALKING"
+            }
+          ],
+          "travel_mode": "WALKING"
+        },
+        {
+          "distance": { "text": "1.3 km", "value": 1281 },
+          "duration": { "text": "2 mins", "value": 120 },
+          "end_location": { "lat": 1.3627, "lng": 103.83226 },
+          "html_instructions": "Subway towards Gardens by the Bay",
+          "polyline": {
+            "points": "_bkGktwxRL@`@FRB^Dx@Hd@DTBhD`@lBPbJlA|FbAnDr@xC~@dAjA~@xAbApAtAnBX\\bAjAj@p@r@h@fAd@?@"
+          },
+          "start_location": { "lat": 1.37264, "lng": 103.83702 },
+          "transit_details": {
+            "arrival_stop": {
+              "location": { "lat": 1.3627, "lng": 103.83226 },
+              "name": "Bright Hill"
+            },
+            "arrival_time": {
+              "text": "1:33\u202fPM",
+              "time_zone": "Asia/Singapore",
+              "value": 1679376781
+            },
+            "departure_stop": {
+              "location": { "lat": 1.37264, "lng": 103.83702 },
+              "name": "Mayflower"
+            },
+            "departure_time": {
+              "text": "1:31\u202fPM",
+              "time_zone": "Asia/Singapore",
+              "value": 1679376661
+            },
+            "headsign": "Gardens by the Bay",
+            "headway": 360,
+            "line": {
+              "agencies": [
+                {
+                  "name": "Smrt",
+                  "phone": "011 65 1800 336 8900",
+                  "url": "http://www.smrt.com.sg/"
+                }
+              ],
+              "color": "#9d5a25",
+              "name": "Thomson East Coast Line",
+              "text_color": "#ffffff",
+              "vehicle": {
+                "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png",
+                "name": "Subway",
+                "type": "SUBWAY"
+              }
+            },
+            "num_stops": 1
+          },
+          "travel_mode": "TRANSIT"
+        },
+        {
+          "distance": { "text": "2.8 km", "value": 2790 },
+          "duration": { "text": "37 mins", "value": 2230 },
+          "end_location": { "lat": 1.3528415, "lng": 103.8200039 },
+          "html_instructions": "Walk to Singapore",
+          "polyline": {
+            "points": "{ciGsvvxRl@e@CVF?ZDLBPBH@n@JP?XBNBN@TAL?RA?J@X?HXAL?|ACF?F?F?N@TAxAHTDDBB@@@BBBFDHBD?~A?FAB?tA?H@HAX?LAp@?HAx@?t@?N?D?F?@?L?n@ILBDDD@@DI?JAFA?@h@B?AB?HCEEBEBBD?z@@L@B_@ZuAlAVXvAhBHJYZi@d@GF]VGFCBCDEDEBKJIFE@KHGDGHCDCFABADCDADCDEFINEBABEJABGLADAF?F?LBNBHBPHh@@B?BHZ?@J^@V?T@F?DAH?@?@@@@@@@@@@@@BBF?@DF@\\Af@Ar@Gb@OXUv@I`@I\\E`@@Z@JBJ@FBDBH@@FJHLDLLj@FXP@FBFBHBFD`@X@?XTFFRN@?TPD@NJ`@\\`@\\f@h@JFHHJJFJFJJHJHJJNJZLPFRHVHVFZLTBd@FTHLJJJHHFLFL?@?B?@?@?@BTBV?X?H?T?B?J?NpA?t@?b@@b@?b@@b@?b@@R?N?f@AbA@@?Z?h@AXEFAB?DADEDELSTy@Jg@JSPSb@]HGRK\\Q@A\\QJINMHMFMBI@G"
+          },
+          "start_location": { "lat": 1.3627, "lng": 103.83226 },
+          "steps": [
+            {
+              "distance": { "text": "33 m", "value": 33 },
+              "duration": { "text": "1 min", "value": 34 },
+              "end_location": { "lat": 1.36247, "lng": 103.83245 },
+              "html_instructions": "Take exit <span class=\"location\">3</span>",
+              "polyline": { "points": "{ciGsvvxRl@e@" },
+              "start_location": { "lat": 1.3627, "lng": 103.83226 },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": { "text": "0.1 km", "value": 148 },
+              "duration": { "text": "2 mins", "value": 114 },
+              "end_location": { "lat": 1.3611995, "lng": 103.8321044 },
+              "html_instructions": "Head <b>south</b> on <b>Sin Ming Ave</b> toward <b>Fulton Rd</b>",
+              "polyline": {
+                "points": "qbiGawvxRF?ZDLBPBH@n@JP?XBNBN@TAL?RA?J"
+              },
+              "start_location": { "lat": 1.3624928, "lng": 103.8323344 },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": { "text": "0.5 km", "value": 549 },
+              "duration": { "text": "8 mins", "value": 456 },
+              "end_location": { "lat": 1.3594827, "lng": 103.8286883 },
+              "html_instructions": "Take the crosswalk",
+              "polyline": {
+                "points": "ozhGsuvxR@X?HXAL?|ACF?F?F?N@TAxAHTDDBB@@@BBBFDHBD?~A?FAB?tA?H@HAX?LAp@?HAx@?t@?N?D?F?@?L?n@ILBDDD@@DI?JAFA?@h@B?"
+              },
+              "start_location": { "lat": 1.3611995, "lng": 103.8321044 },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": { "text": "62 m", "value": 62 },
+              "duration": { "text": "1 min", "value": 54 },
+              "end_location": { "lat": 1.3595317, "lng": 103.8281858 },
+              "html_instructions": "Continue onto <b>Venus Dr</b>",
+              "polyline": { "points": "wohGi`vxRAB?HCEEBEBBD?z@@L@B" },
+              "start_location": { "lat": 1.3594827, "lng": 103.8286883 },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": { "text": "94 m", "value": 94 },
+              "duration": { "text": "1 min", "value": 64 },
+              "end_location": { "lat": 1.3601159, "lng": 103.8276629 },
+              "html_instructions": "Turn <b>right</b> to stay on <b>Venus Dr</b>",
+              "maneuver": "turn-right",
+              "polyline": { "points": "aphGe}uxR_@ZuAlA" },
+              "start_location": { "lat": 1.3595317, "lng": 103.8281858 },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": { "text": "93 m", "value": 93 },
+              "duration": { "text": "1 min", "value": 68 },
+              "end_location": { "lat": 1.3595052, "lng": 103.826944 },
+              "html_instructions": "Turn <b>left</b>",
+              "maneuver": "turn-left",
+              "polyline": { "points": "wshG{yuxRVXvAhBHJ" },
+              "start_location": { "lat": 1.3601159, "lng": 103.8276629 },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": { "text": "0.4 km", "value": 386 },
+              "duration": { "text": "5 mins", "value": 277 },
+              "end_location": { "lat": 1.360437, "lng": 103.8240648 },
+              "html_instructions": "Turn <b>right</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "}ohGkuuxRYZi@d@GF]VGFCBCDEDEBKJIFE@KHGDGHCDCFABADCDADCDEFINEBABEJABGLADAF?F?LBNBHBPHh@@B?BHZ?@J^@V?T@F?DAH?@?@@@@@@@@@@@@BBF?@DF"
+              },
+              "start_location": { "lat": 1.3595052, "lng": 103.826944 },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": { "text": "0.3 km", "value": 308 },
+              "duration": { "text": "5 mins", "value": 273 },
+              "end_location": { "lat": 1.3604788, "lng": 103.8214313 },
+              "html_instructions": "Slight <b>right</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "wuhGkcuxR@\\Af@Ar@Gb@OXUv@I`@I\\E`@@Z@JBJ@FBDBH@@FJHLDLLj@FX"
+              },
+              "start_location": { "lat": 1.360437, "lng": 103.8240648 },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": { "text": "0.6 km", "value": 551 },
+              "duration": { "text": "8 mins", "value": 465 },
+              "end_location": { "lat": 1.3570677, "lng": 103.8183263 },
+              "html_instructions": "Turn <b>left</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "_vhG}rtxRP@FBFBHBFD`@X@?XTFFRN@?TPD@NJ`@\\`@\\f@h@JFHHJJFJFJJHJHJJNJZLPFRHVHVFZLTBd@FTHLJJJHHFLFL?@?B?@?@?@BTBV?X?H?T?B?J?N"
+              },
+              "start_location": { "lat": 1.3604788, "lng": 103.8214313 },
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": { "text": "0.6 km", "value": 566 },
+              "duration": { "text": "7 mins", "value": 425 },
+              "end_location": { "lat": 1.3528415, "lng": 103.8200039 },
+              "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "u`hGq_txRpA?t@?b@@b@?b@@b@?b@@R?N?f@AbA@@?Z?h@AXEFAB?DADEDELSTy@Jg@JSPSb@]HGRK\\Q@A\\QJINMHMFMBI@G"
+              },
+              "start_location": { "lat": 1.3570677, "lng": 103.8183263 },
+              "travel_mode": "WALKING"
+            }
+          ],
+          "travel_mode": "WALKING"
+        }
+      ],
+      "traffic_speed_entry": [],
+      "via_waypoint": []
+    }
+  ],
+  "overview_polyline": {
+    "points": "wxjGsywxRAQI@O@RlCAZGj@uG_@L@nCZz@HvGr@bJlA|FbAnDr@xC~@dAjA~@xAxC`E|AhBj@p@r@h@fAd@l@c@CVF?h@HZD`AJh@Fd@?`@A@d@?HXAjBCf@@TAxAHZHLNHN?fB?lBEhF?fAILHJFGAR?h@@B?HCEKFBD?z@BPuBhBnBbCHJYZq@l@e@^SRg@^ONGLITY`@Q`@CL?TTtAJd@J^@V@\\ARFFFNDF@\\CzAGb@OXUv@S~@C|@Jd@Vd@Rx@FXP@FBPFdAt@r@h@TLbAz@hAfANVVRZVl@T~Ah@z@Jb@TTTNZ?HBVBp@?n@?NpA?xA@nCBnC?fAAj@IJKLSTy@Jg@JSt@q@|@g@h@[X[L_@"
+  },
+  "summary": "",
+  "warnings": [
+    "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+  ],
+  "waypoint_order": []
+}
