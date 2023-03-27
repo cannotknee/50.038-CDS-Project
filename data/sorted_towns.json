@@ -1,85 +1,85 @@
 {
   "town_region": [
     {
-      "region": "North",
+      "region": "north",
       "towns": [
-        "Admirality",
-        "Kranji",
-        "Woodlands",
-        "Sembawang",
-        "Yishun",
-        "Yio Chu Kang",
-        "Seletar",
-        "Sengkang"
+        "admirality",
+        "kranji",
+        "woodlands",
+        "sembawang",
+        "yishun",
+        "yio chu kang",
+        "seletar",
+        "sengkang"
       ]
     },
     {
-      "region": "East",
+      "region": "east",
       "towns": [
-        "Serangoon",
-        "Punggol",
-        "Hougang",
-        "Tampines",
-        "Pasir Ris",
-        "Loyang",
-        "Simei",
-        "Kallang",
-        "Katong",
-        "East Coast",
-        "Macpherson",
-        "Bedok",
-        "Pulau Ubin",
-        "Pulau Tekong",
-        "Whampoa",
-        "Kallang/Whampoa"
+        "serangoon",
+        "punggol",
+        "hougang",
+        "tampines",
+        "pasir ris",
+        "loyang",
+        "simei",
+        "kallang",
+        "katong",
+        "east coast",
+        "macpherson",
+        "bedok",
+        "pulau ubin",
+        "pulau tekong",
+        "whampoa",
+        "kallang/whampoa"
       ]
     },
     {
-      "region": "South",
+      "region": "south",
       "towns": [
-        "Holland",
-        "Queenstown",
-        "Bukit Merah",
-        "Telok Blangah",
-        "Pasir Panjang",
-        "Sentosa",
-        "Bukit Timah",
-        "Newton",
-        "Orchard",
-        "City",
-        "Marina South"
+        "holland",
+        "queenstown",
+        "bukit merah",
+        "telok blangah",
+        "pasir panjang",
+        "sentosa",
+        "bukit timah",
+        "newton",
+        "orchard",
+        "city",
+        "marina south"
       ]
     },
     {
-      "region": "West",
+      "region": "west",
       "towns": [
-        "Lim Chu Kang",
-        "Choa Chu Kang",
-        "Bukit Panjang",
-        "Tuas",
-        "Jurong East",
-        "Jurong West",
-        "Jurong Industrial Estate",
-        "Bukit Batok",
-        "Hillview",
-        "West Coast",
-        "Clementi"
+        "lim chu kang",
+        "Choa chu kang",
+        "bukit Panjang",
+        "tuas",
+        "jurong east",
+        "jurong west",
+        "jurong industrial estate",
+        "bukit batok",
+        "hillview",
+        "west coast",
+        "clementi"
       ]
     },
     {
-      "region": "Central",
+      "region": "central",
       "towns": [
-        "Marine Parade",
-        "Central Area",
-        "Geylang",
-        "Thomson",
-        "Marymount",
-        "Sin Ming",
-        "Ang Mo Kio",
-        "Bishan",
-        "Serangoon Gardens",
-        "MacRitchie",
-        "Toa Payoh"
+        "marine parade",
+        "central area",
+        "geylang",
+        "thomson",
+        "marymount",
+        "sin ming",
+        "ang mo kio",
+        "bishan",
+        "serangoon gardens",
+        "macRitchie",
+        "toa payoh"
       ]
     }
   ]
