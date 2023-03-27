@@ -1,7 +1,8 @@
 {
   "town_region": [
     {
-      "North": [
+      "region": "North",
+      "towns": [
         "Admirality",
         "Kranji",
         "Woodlands",
@@ -13,7 +14,8 @@
       ]
     },
     {
-      "East": [
+      "region": "East",
+      "towns": [
         "Serangoon",
         "Punggol",
         "Hougang",
@@ -27,11 +29,14 @@
         "Macpherson",
         "Bedok",
         "Pulau Ubin",
-        "Pulau Tekong"
+        "Pulau Tekong",
+        "Whampoa",
+        "Kallang/Whampoa"
       ]
     },
     {
-      "South": [
+      "region": "South",
+      "towns": [
         "Holland",
         "Queenstown",
         "Bukit Merah",
@@ -46,7 +51,8 @@
       ]
     },
     {
-      "West": [
+      "region": "West",
+      "towns": [
         "Lim Chu Kang",
         "Choa Chu Kang",
         "Bukit Panjang",
@@ -61,7 +67,8 @@
       ]
     },
     {
-      "Central": [
+      "region": "Central",
+      "towns": [
         "Marine Parade",
         "Central Area",
         "Geylang",
