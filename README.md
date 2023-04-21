@@ -19,11 +19,11 @@ Three algorithms were used in this project:
     3. eXtreme Gradient Boosting (XGBoost)
 
 ## Code structure
-The final 3 timeseries models are in the root of the folder.<br>
-Random Forest Time Series Model: RandomForest_TimeSeries.ipynb<br>
-LSTM Time Series Model: RandomForest_TimeSeries.ipynb<br>
-XGBoost Time Series Model: XGBoost_TimeSeries.ipynb<br>
+The final 3 timeseries models are in the root of the repo.<br>
+**Random Forest Time Series Model**: `RandomForest_TimeSeries.ipynb`<br>
+**LSTM Time Series Model**: `RandomForest_TimeSeries.ipynb`<br>
+**XGBoost Time Series Model**: `XGBoost_TimeSeries.ipynb`<br>
 
-The scripts used to clean the data can be found in the "01_cleaning_data" folder.<br>
-The inital naive models use and other models experimented can be found in "02_intial_naive_models" folder.<br>
-The dataset can be found in the "data" folder.<br>
+The **scripts used to clean the data** can be found in the `"01_cleaning_data"` folder.<br>
+The **inital naive models** and other models experimented can be found in `"02_intial_naive_models"` folder.<br>
+The **dataset** can be found in the `"data"` folder.<br>
