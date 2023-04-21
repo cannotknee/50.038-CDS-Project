@@ -4,13 +4,10 @@ Group members:
 * Jobelle Lee Ern Ee 1005547
 * Baarath S/O Sellathurai 1005433
 
-# HDB Resale Flat Price Prediction using Machine Learning
+## HDB Resale Flat Price Prediction using Machine Learning
 
-This project explores the use of machine learning algorithms to predict Housing Development Board (HDB) resale flat prices in Singapore. The accurate prediction of resale flat prices is crucial in enabling informed decisions for buyers and sellers.
-## Data Collection and Preprocessing
-
-The HDB resale flat dataset was obtained from the HDB website. The data was preprocessed by conducting feature engineering and additional data preprocessing.
-## Algorithms Used
+This project explores the use of machine learning algorithms to predict Housing Development Board (HDB) resale flat prices in Singapore. The accurate prediction of resale flat prices is crucial in enabling informed decisions for buyers and sellers. The HDB resale flat dataset was obtained from the HDB's website.
+### Algorithms Used
 
 Three algorithms were used in this project:
 
@@ -18,7 +15,7 @@ Three algorithms were used in this project:
     2. Long Short-Term Memory (LSTM) Recurrent Neural Network
     3. eXtreme Gradient Boosting (XGBoost)
 
-## Code structure
+### Code structure
 The final 3 timeseries models are in the root of the repo.<br>
 **Random Forest Time Series Model**: `RandomForest_TimeSeries.ipynb`<br>
 **LSTM Time Series Model**: `RandomForest_TimeSeries.ipynb`<br>
